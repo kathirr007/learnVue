@@ -2,6 +2,16 @@
   "name": "vueMovieDB",
   "version": "0.1.0",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kathirr007/learnVue.git"
+  },
+  "author": "Edit Place India",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kathirr007/learnVue.git/issues"
+  },
+  "homepage": "https://github.com/kathirr007/learnVue.git#readme",
   "scripts": {
     "serve": "vue-cli-service serve --open",
     "build": "vue-cli-service build",
