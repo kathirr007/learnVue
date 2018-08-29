@@ -1,7 +1,7 @@
 {
   "esversion": 6,
-  // "asi": true,
-  // "expr": true,
+  "asi": true,
+  "expr": true,
   "globals": {
     "MY_GLOBAL": true
   }
